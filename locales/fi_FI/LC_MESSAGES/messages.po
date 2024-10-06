@@ -5,6 +5,7 @@
 #
 # Translators:
 # Antti Havukainen, 2016
+# Samoasambia, 2024
 msgid ""
 msgstr ""
 "Project-Id-Version: OpenRailwayMap\n"
@@ -22,7 +23,7 @@ msgstr ""
 "X-Poedit-SourceCharset: utf-8\n"
 
 msgid "More Info"
-msgstr "Enemmän tietoa"
+msgstr "Lisätietoja"
 
 msgid "Contact"
 msgstr "Yhteydenotto"
@@ -59,10 +60,10 @@ msgid "Permalink"
 msgstr "Ikilinkki"
 
 msgid "Hillshading"
-msgstr ""
+msgstr "Rinnevarjostus"
 
 msgid "Hillshading by <a href='https://www.nasa.gov/'>NASA SRTM</a>"
-msgstr ""
+msgstr "Rinnevarjostus: <a href='https://www.nasa.gov/'>NASA SRTM</a>"
 
 msgid "Rendering: OpenRailwayMap"
 msgstr "Renderöinti: OpenRailwayMap"
@@ -92,7 +93,7 @@ msgid "HTML-Code"
 msgstr "HTML-koodi"
 
 msgid "Copy this HTML code snippet into your website to show a small map with a marker."
-msgstr ""
+msgstr "Kopio tämä HTMK-koodipätkä verkkosivullesi näyttääksesi pienen kartan merkin kanssa."
 
 msgid "Fullscreen"
 msgstr "Koko näyttö"
@@ -151,7 +152,7 @@ msgid "Maxspeeds"
 msgstr "Nopeusrajoitukset"
 
 msgid "Electrification"
-msgstr ""
+msgstr "Sähköistys"
 
 msgid "Halt"
 msgstr "Seisake"
@@ -175,7 +176,7 @@ msgid "Service station"
 msgstr "Varikko"
 
 msgid "Subway/Light rail station"
-msgstr ""
+msgstr "Metro/pikaraitiotieasema"
 
 msgid "Tram stop"
 msgstr "Raitiovaunupysäkki"
@@ -184,7 +185,7 @@ msgid "Milestone"
 msgstr "Kilometripylväs"
 
 msgid "Signal"
-msgstr ""
+msgstr "Opastin"
 
 msgid "Level crossing"
 msgstr "Tasoristeys"
@@ -439,13 +440,13 @@ msgid "Blog"
 msgstr "Blogi"
 
 msgid "No information"
-msgstr ""
+msgstr "Ei tietoja"
 
 msgid "speed only given for one direction"
-msgstr ""
+msgstr "nopeus annettu vain yhdelle suunnalle"
 
 msgid "main track, service track"
-msgstr ""
+msgstr "päärata, varikkorata"
 
 msgid "Quick search shortcut"
 msgstr ""
@@ -454,76 +455,76 @@ msgid "Placeholder"
 msgstr ""
 
 msgid "Donate"
-msgstr ""
+msgstr "Lahjoita"
 
 msgid "Tools"
-msgstr ""
+msgstr "Työkalut"
 
 msgid "Wiki"
-msgstr ""
+msgstr "Wiki"
 
 msgid "Search milestone"
 msgstr ""
 
 msgid "Station code"
-msgstr ""
+msgstr "Asemakoodi"
 
 msgid "Search station"
-msgstr ""
+msgstr "Hae asemaa"
 
 msgid "UIC reference"
-msgstr ""
+msgstr "UIC-viite"
 
 msgid "About this project"
-msgstr ""
+msgstr "Tietoja tästä projektista"
 
 msgid "Close"
-msgstr ""
+msgstr "Sulje"
 
 msgid "Name"
-msgstr ""
+msgstr "Nimi"
 
 msgid "Line operator"
-msgstr ""
+msgstr "Linjan operaattori"
 
 msgid "Operator"
-msgstr ""
+msgstr "Operaattori"
 
 msgid "More results"
-msgstr ""
+msgstr "Lisää tuloksia"
 
 msgid "Spur junction"
 msgstr ""
 
 msgid "No background map"
-msgstr ""
+msgstr "Ei taustakarttaa"
 
 msgid "%SPDMIN%-%SPDMAX% km/h (disused/under construction)"
-msgstr ""
+msgstr "%SPDMIN%–%SPDMAX% km/h (käytöstä poistettu/rakenteilla)"
 
 msgid "Not electrified"
-msgstr ""
+msgstr "Sähköistämätön"
 
 msgid "Deelectrified"
-msgstr ""
+msgstr "Sähköistys poistettu"
 
 msgid "Electrification proposed"
 msgstr ""
 
 msgid "Electrification under construction"
-msgstr ""
+msgstr "Sähköistys rakenteilla"
 
 msgid "contact line"
-msgstr ""
+msgstr "ajojohdin"
 
 msgid "3rd rail"
-msgstr ""
+msgstr "Kolmas raide"
 
 msgid "Germany"
-msgstr ""
+msgstr "Saksa"
 
 msgid "Finland"
-msgstr ""
+msgstr "Suomi"
 
 msgid "train protection"
 msgstr ""
@@ -535,7 +536,7 @@ msgid "crossing signal type To"
 msgstr ""
 
 msgid "Voltage"
-msgstr ""
+msgstr "Jännite"
 
 msgid "signals"
 msgstr ""
@@ -550,25 +551,25 @@ msgid "Hp-Lichthauptsignal ohne Angabe der Signalzustände"
 msgstr ""
 
 msgid "Track usage"
-msgstr ""
+msgstr "Radan käyttö"
 
 msgid "Lf 7 Geschwindigkeitssignal"
 msgstr ""
 
 msgid "1.5 – 3kV ="
-msgstr ""
+msgstr "1,5–3 kV ="
 
 msgid "ETCS under construction"
-msgstr ""
+msgstr "ETCS rakenteilla"
 
 msgid "3kV ="
-msgstr ""
+msgstr "3 kV ="
 
 msgid "shunting signal type Ro"
 msgstr ""
 
 msgid "Track type"
-msgstr ""
+msgstr "Radan tyyppi"
 
 msgid "El 5 \"Bügel an\"-Signal"
 msgstr ""
@@ -577,7 +578,7 @@ msgid "Linienzugbeeinflussung"
 msgstr ""
 
 msgid "25kV 50Hz ~"
-msgstr ""
+msgstr "25 kV 50 Hz"
 
 msgid "So 106 Kreuztafel"
 msgstr ""
@@ -592,16 +593,16 @@ msgid "Hp-Formhauptsignal ohne Angabe der Signalzustände"
 msgstr ""
 
 msgid "At least 25kV ~"
-msgstr ""
+msgstr "Vähintään 25 kV ~"
 
 msgid "minor signal type Lo"
 msgstr ""
 
 msgid "15 – 25kV ~"
-msgstr ""
+msgstr "15–25 kV ~"
 
 msgid "ETCS"
-msgstr ""
+msgstr "ETCS"
 
 msgid "Blockkennzeichen"
 msgstr ""
@@ -613,7 +614,7 @@ msgid "Ne 1 Trapeztafel"
 msgstr ""
 
 msgid "15kV 16⅔Hz ~"
-msgstr ""
+msgstr "15 kV 16⅔ Hz ~"
 
 msgid "Ra 11 Wartezeichen ohne Sh 1 / Wartesignal ohne 'Verschubverbot aufgehoben'"
 msgstr ""
@@ -622,31 +623,31 @@ msgid "Ne 5 Haltetafel"
 msgstr ""
 
 msgid "More than 3kV ="
-msgstr ""
+msgstr "Yli 3 kV ="
 
 msgid "Lf 6 Geschwindigkeits­ankündesignal"
 msgstr ""
 
 msgid "750 – 1000V ="
-msgstr ""
+msgstr "750–1000 V ="
 
 msgid "Less than 15kV ~"
-msgstr ""
+msgstr "Alle 15 kV ~"
 
 msgid "1kV ="
-msgstr ""
+msgstr "1 kV ="
 
 msgid "1 – 1.5kV ="
-msgstr ""
+msgstr "1–1,5 kV"
 
 msgid "block signal type So"
 msgstr ""
 
 msgid "%SPDMIN%-%SPDMAX% km/h"
-msgstr ""
+msgstr "%SPDMIN%–%SPDMAX% km/h"
 
 msgid "1.5kV ="
-msgstr ""
+msgstr "1,5 ="
 
 msgid "El 2 Einschaltsignal"
 msgstr ""
@@ -667,7 +668,7 @@ msgid "El 6 Halt für Fahrzeuge mit gehobenem Stromabnehmer"
 msgstr ""
 
 msgid "Less than 750V ="
-msgstr ""
+msgstr "Alle 750 V ="
 
 msgid "Punktförmige Zugbeeinflussung"
 msgstr ""
@@ -676,10 +677,10 @@ msgid "El 4 \"Bügel ab\"-Signal"
 msgstr ""
 
 msgid "750V ="
-msgstr ""
+msgstr "750 V ="
 
 msgid "25kV 60Hz ~"
-msgstr ""
+msgstr "25 kV 60 Hz ~"
 
 msgid "El 3 \"Bügel ab\"-Ankündigungssignal"
 msgstr ""
@@ -688,7 +689,7 @@ msgid "El 1v Ausschaltsignal erwarten"
 msgstr ""
 
 msgid "15kV 16.7Hz ~"
-msgstr ""
+msgstr "15 kV 16,7 Hz ~"
 
 msgid "Sh-Lichtsperrsignal (normal, Zwergsignal)"
 msgstr ""
@@ -776,7 +777,7 @@ msgid "Zs 3 Geschwindigkeits­anzeiger (Tafel, Lichtsignal)"
 msgstr ""
 
 msgid "Imprint &amp; Privacy Policy"
-msgstr ""
+msgstr "Julkaisutiedot &amp; Tietosuojakäytäntö"
 
 msgid "ATB - Automatische Treinbeïnvloeding"
 msgstr ""
@@ -788,139 +789,139 @@ msgid "KVB - Contrôle de Vitesse par Balises"
 msgstr ""
 
 msgid "1067mm"
-msgstr ""
+msgstr "1067 mm"
 
 msgid "1435mm"
-msgstr ""
+msgstr "1435 mm"
 
 msgid "1676mm"
-msgstr ""
+msgstr "1676 mm"
 
 msgid "1422mm"
-msgstr ""
+msgstr "1422 mm"
 
 msgid "1524mm"
-msgstr ""
+msgstr "1524 mm"
 
 msgid "950mm"
-msgstr ""
+msgstr "950 mm"
 
 msgid "800mm"
-msgstr ""
+msgstr "800 mm"
 
 msgid "127mm"
-msgstr ""
+msgstr "127 mm"
 
 msgid "Narrow gauge"
-msgstr ""
+msgstr "Kapea raideleveys"
 
 msgid "500mm"
-msgstr ""
+msgstr "500 mm"
 
 msgid "Miniature"
-msgstr ""
+msgstr "Pienoisrautatie"
 
 msgid "Miniature tracks"
-msgstr ""
+msgstr "Pienoisrautatiet"
 
 msgid "1445mm"
-msgstr ""
+msgstr "1455 mm"
 
 msgid "Standard gauge"
-msgstr ""
+msgstr "Normaaliraideleveys"
 
 msgid "1100mm"
-msgstr ""
+msgstr "1100 mm"
 
 msgid "597mm"
-msgstr ""
+msgstr "597 mm"
 
 msgid "1372mm"
-msgstr ""
+msgstr "1372 mm"
 
 msgid "1450mm"
-msgstr ""
+msgstr "1450 mm"
 
 msgid "600mm"
-msgstr ""
+msgstr "600 mm"
 
 msgid "64mm"
-msgstr ""
+msgstr "64 mm"
 
 msgid "1432mm"
-msgstr ""
+msgstr "1432 mm"
 
 msgid "760mm"
-msgstr ""
+msgstr "760 mm"
 
 msgid "381mm"
-msgstr ""
+msgstr "381 mm"
 
 msgid "750mm"
-msgstr ""
+msgstr "750 mm"
 
 msgid "1009mm"
-msgstr ""
+msgstr "1009 mm"
 
 msgid "1495mm"
-msgstr ""
+msgstr "1495 mm"
 
 msgid "1520mm"
-msgstr ""
+msgstr "1520mm"
 
 msgid "Track gauge values"
-msgstr ""
+msgstr "Raideleveyden arvot"
 
 msgid "1458mm"
-msgstr ""
+msgstr "1458 mm"
 
 msgid "Dual gauge"
-msgstr ""
+msgstr "Kaksoisraideleveys"
 
 msgid "1600mm"
-msgstr ""
+msgstr "1600 mm"
 
 msgid "184mm"
-msgstr ""
+msgstr "184 mm"
 
 msgid "610mm"
-msgstr ""
+msgstr "610 mm"
 
 msgid "89mm"
-msgstr ""
+msgstr "89 mm"
 
 msgid "260mm"
-msgstr ""
+msgstr "260 mm"
 
 msgid "762mm"
-msgstr ""
+msgstr "762 mm"
 
 msgid "1050mm"
-msgstr ""
+msgstr "1050 mm"
 
 msgid "190mm"
-msgstr ""
+msgstr "190 mm"
 
 msgid "914mm"
-msgstr ""
+msgstr "914 mm"
 
 msgid "1000mm"
-msgstr ""
+msgstr "1000 mm"
 
 msgid "Multiple gauge"
-msgstr ""
+msgstr "Useita raideleveyksiä"
 
 msgid "1668mm"
-msgstr ""
+msgstr "1668 mm"
 
 msgid "Broad gauge"
-msgstr ""
+msgstr "Leveä raideleveys"
 
 msgid "900mm"
-msgstr ""
+msgstr "900 mm"
 
 msgid "700mm"
-msgstr ""
+msgstr "700 mm"
 
 msgid "Monorail"
-msgstr ""
+msgstr "Monorail"
